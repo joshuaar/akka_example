@@ -8,9 +8,9 @@ these events by printing them to the stdout.
 
 ## Installing
 
-Check out the repository from GitHub
+To check out the repo, do 
 
-  git clone https://github.com/joshuaar/akka_example
+	git clone https://github.com/joshuaar/akka_example
 
 ## Running
 
