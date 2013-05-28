@@ -49,7 +49,7 @@ You should get output that looks like this:
 This example uses Akka and Scala to send messages between two actors.
 The Sender actor recieves a START message, which prompts it to choose
 a random message and send it to the Receiver. Receiver then prints 
-the message to the screen and sends a START message back to the sender
-this repeats the process until you stop the process
+the message to the screen and sends a START message back to the
+sender, repeating the process.
 
 
