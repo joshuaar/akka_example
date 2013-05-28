@@ -18,7 +18,7 @@ To compile, do
 
 	scalac -cp "akka-actor-2.0.5.jar:config-0.3.1.jar" akka_example.scala
 
-This works under linux. Under Windows you might need ; instead of :
+This works under linux. Under Windows you might need to use ; instead of : for the classpath separator
 
 ## Running
 
