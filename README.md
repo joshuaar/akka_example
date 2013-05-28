@@ -4,7 +4,11 @@ akka_example
 This is a pretty simple example of using actors in Akka.
 The system consists of two actors. The first generates 
 random events every few seconds, and the second processes
-these events by printing them.
+these events by printing them. 
+
+If you don't have scala, SBT and Akka installed, you 
+don't really need them for this example, as all libraries
+are included. You do need scalac in order to compile the code. 
 
 ## Installing
 
