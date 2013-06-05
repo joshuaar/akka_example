@@ -10,6 +10,8 @@ If you don't have scala, SBT and Akka installed, you
 don't really need them for this example, as all libraries
 are included. You do need scalac in order to compile the code. 
 
+NOTE: In Scala 2.10, Akka is included by default, so the jars aren't necessary.
+
 ## Installing
 
 To check out the repo, do 
