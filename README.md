@@ -12,7 +12,7 @@ are included. You do need scalac in order to compile the code.
 
 NOTE: This was written in Scala 2.9.2. In Scala 2.10, Akka is included by default, so the jars aren't necessary.
 
-## Installing
+## Downloading
 
 To check out the repo, do 
 
